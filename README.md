@@ -1,4 +1,4 @@
-# afterEffectsPhotoSlide
+# Adobe After Effects script for creating Photo slide
 
 Based on tutorial https://www.youtube.com/watch?v=l5-tc_aUOSY
 
